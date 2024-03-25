@@ -11,8 +11,9 @@ body {
 
 form {
   display: flex;
-  justify-content: start;
+  justify-content: center;
   align-items: center;
+  flex-direction: column;
   height: 30vh;
   flex-direction: column;
 }
